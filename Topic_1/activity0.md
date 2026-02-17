@@ -1,3 +1,8 @@
+**Activity 0**
+
+**Author: Robert (Bobby) Estey**
+**Date: 18 Feb 2026**
+
 # **Introduction & Tools Installation**
 
 **Introduction**
@@ -52,7 +57,7 @@ The screenshot displays a Node.js console application that runs without
 errors and prints “Hello World!” in the terminal.
 
 This small program showed me how Node.js runs JavaScript files on the
-computer instead of inside a browser window.**\**
+computer instead of inside a browser window.\*\*\*\*
 
 **Express Hello World Application**
 
@@ -75,7 +80,7 @@ Sequence
 
 **Command : node app.js**
 
-**\**
+\*\*\*\*
 
 **Output:**
 
