@@ -1,7 +1,7 @@
 **Activity 0**
 
-**Author: Robert (Bobby) Estey**
-**Date: 18 Feb 2026**
+**Author:** Robert (Bobby) Estey  
+**Date:** 18 Feb 2026
 
 # **Introduction & Tools Installation**
 

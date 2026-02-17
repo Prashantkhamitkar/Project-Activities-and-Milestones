@@ -2,8 +2,8 @@
 
 **Course:** Web Application Development\
 **Application Name:** Community Resource & Event Management System
-**Author: Robert (Bobby) Estey**
-**Date: 18 Feb 2026**
+**Author:** Robert (Bobby) Estey  
+**Date:** 18 Feb 2026
 
 # **Project Proposal**
 
