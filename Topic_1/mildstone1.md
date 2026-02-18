@@ -128,22 +128,17 @@ complexity of enterprise software.
 
 ### **System Architecture**
 
-<img src="media/media/image1.png"
-style="width:5.40417in;height:3.49167in"
-alt="Gemini_Generated_Image_hgpz4hhgpz4hhgpz" />
+![System Architecture](system_arch.png)
 
 ## **Initial UI Sitemap**
 
-<img src="media/media/image2.png" style="width:5.67708in;height:5.375in"
-alt="Untitled Diagram.drawio (1)" />
+![Site Map](sitemap.png)
 
 ## **Initial UI Wireframes**
 
 ### **Dashboard Page**
 
-<img src="media/media/image3.png"
-style="width:6.49583in;height:5.0125in"
-alt="Gemini_Generated_Image_ifusmlifusmlifus" />
+![Dashboard](dashboard.png)
 
 ###
 
@@ -163,17 +158,13 @@ alt="Gemini_Generated_Image_ifusmlifusmlifus" />
 
 ### **Add / Edit Resource Page**
 
-<img src="media/media/image4.png"
-style="width:6.49583in;height:6.49583in"
-alt="Gemini_Generated_Image_qitifvqitifvqiti" />
+![Edit Resource](editresource.png)
 
 ###
 
 ### **Event Management Page**
 
-<img src="media/media/image5.png"
-style="width:6.50625in;height:3.71667in"
-alt="Gemini_Generated_Image_6e2ngq6e2ngq6e2n" />
+![Event Management](editevent.png)
 
 ## **Initial Database Design (ER Diagram)**
 
@@ -181,9 +172,7 @@ alt="Gemini_Generated_Image_6e2ngq6e2ngq6e2n" />
 
 ###
 
-### <img src="media/media/image6.png"
-
-style="width:6.05903in;height:4.67292in" alt="community_project_erd" />
+### ![ERD](erd.png)
 
 ###
 
@@ -201,8 +190,7 @@ style="width:6.05903in;height:4.67292in" alt="community_project_erd" />
 
 ### **UML**
 
-<img src="media/media/image7.png" style="width:6.5in;height:3.86181in"
-alt="communityproject.drawio.png" />
+![UML](uml.png)
 
 ## **General Technical Approach**
 

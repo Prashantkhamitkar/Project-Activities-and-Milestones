@@ -22,8 +22,7 @@ the installation.
 
 **Command: node –v**
 
-<img src="media/media/image1.png"
-style="width:5.69792in;height:1.26042in" />
+![node version](nodeversion.png)
 
 **The screenshot displays the Node.js version that is installed on the
 system and my setup completed without problems.**
@@ -34,8 +33,7 @@ Next, I verified npm installation.
 
 **Command: npm -v**
 
-<img src="media/media/image2.png"
-style="width:5.84375in;height:1.20833in" />
+![NPM version](npmversion.png)
 
 **Node.js Hello World (Console Application)**
 
@@ -50,8 +48,7 @@ a file named app.js.
 
 **Output:**
 
-<img src="media/media/image3.png"
-style="width:6.61565in;height:2.71304in" />
+![Hello world](hellowolrdconsole.png)
 
 The screenshot displays a Node.js console application that runs without
 errors and prints “Hello World!” in the terminal.
@@ -84,8 +81,7 @@ Sequence
 
 **Output:**
 
-<img src="media/media/image4.png"
-style="width:6.47917in;height:2.0625in" />
+![Hello World on browser](Helloworldonbrowser.png)
 
 The screenshot captures the Express server as it runs and prints “Hello
 World!” in the browser.
@@ -103,16 +99,14 @@ Now I will start the server using nodemon
 
 **Command : nodemon app.js**
 
-<img src="media/media/image5.png"
-style="width:6.39583in;height:2.56821in" />
+![Nodemon Start](nodemonconsole.png)
 
 I edited the response string in the file then refreshed the browser. The
 server restarted on its own - no manual step was required.
 
 **Output:**
 
-<img src="media/media/image6.png"
-style="width:6.47917in;height:1.55208in" />
+![nodemon start](nodemonstart.png)
 
 The screenshot displays the Express server running under nodemon.
 Nodemon restarts the server automatically each time the source file
@@ -136,16 +130,14 @@ MusicAPI.
 
 **Output :**
 
-<img src="media/media/image7.png"
-style="width:6.5in;height:2.09375in" />
+![Typescript code](usingtypescript.png)
 
 The screenshot shows the TypeScript Node.js application working in the
 browser.
 
 **Commented app.ts**
 
-<img src="media/media/image8.png" style="width:6.5in;height:3.79861in"
-alt="code.png" />
+![Commented Code](commentedcode.png)
 
 **Conclusion**
 
